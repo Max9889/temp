@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Twin Cities Infohub</title>
+        <link>https://localhost/index.html</link>
+
+        <description>Your source for info on the twin cities Liverpool and Shanghai!</description>
+
+        <language>en-gb</language>
+        <lastBuildDate>Sun, 08 Mar 2026 06:02:05 +0100</lastBuildDate>
+
+        <category>Liverpool-Shanghai Data</category>
+        <category>University Assignment</category>
+
+        <item>
+            <title>Liverpool News: Almost 150 injured at LFC parade before Doyle incident</title>
+            <link>https://www.bbc.co.uk/news/articles/cewz7yrxw2jo</link>
+
+            <description>Author: BBC News Team | Source: BBC News | Summary: Almost 150 people were injured during Liverpool FC&#039;s parade last May in circumstances not related to the Water Street incident, a new report has revealed. | Image: https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b7b9/live/baf5e460-1949-11f1-8e5e-abb58cd0aded.jpg.webp</description>
+
+            <category>News</category>
+            <category>Liverpool</category>
+
+            <pubDate>Fri, 06 Mar 2026 00:00:00 +0100</pubDate>
+            <guid isPermaLink="false">news_1</guid>
+        </item>
+
+        <item>
+            <title>Liverpool-Shanghai News: Liverpool to host Chinese art exhibition</title>
+            <link>https://www.bbc.co.uk/news/articles/cn425ypd7p1o</link>
+
+            <description>Author: Stewart Whittingham | Source: BBC News | Summary: Liverpool has been announced as the host of Chinese art collection loaned by its twin city of Shanghai. | Image: https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e9a/live/3573ddd0-ff39-11f0-bcaf-15a49ee177e5.png.webp</description>
+
+            <category>News</category>
+            <category>Liverpool-Shanghai</category>
+
+            <pubDate>Mon, 02 Feb 2026 00:00:00 +0100</pubDate>
+            <guid isPermaLink="false">news_3</guid>
+        </item>
+
+        <item>
+            <title>Shanghai News: Hong Kong, Shanghai sign pact on digital trade finance, cross-border data link</title>
+            <link>https://www.scmp.com/business/banking-finance/article/3345160/hong-kong-shanghai-sign-pact-digital-trade-finance-cross-border-data-link</link>
+
+            <description>Author: Enoch Yiu | Source: South China Morning Post | Summary: Hong Kong and Shanghai have signed an accord deepening their collaboration in promoting digitised cargo trade finance and strengthening mainland China&#039;s connection to the global data ecosystem. | Image: https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2026/03/02/af69a8ad-6145-424c-99ff-e83e2e1d18f7_31554b0d.jpg?itok=bi9Ck41B&amp;amp;v=1772448928</description>
+
+            <category>News</category>
+            <category>Shanghai</category>
+
+            <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
+            <guid isPermaLink="false">news_2</guid>
+        </item>
+
+        <item>
+            <title>City: Liverpool</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool - a city in England | Timezone: Europe/London | Population: 508961 | Latitude: 53.400002 | Longitude: -2.983333 | Mayor: Steve Rotheram | GDP: 20000000000 GBP (local currency) | Total Area: 134km²</description>
+
+            <category>City</category>
+            <category>England</category>
+
+            <guid isPermaLink="false">city_1</guid>
+        </item>
+
+        <item>
+            <title>District: City Centre North [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>City Centre North - a district in Liverpool | Covers part of the Vauxhall area and the northern portion of the city centre. This includes St George&#039;s Hall and Liverpool Town Hall. | Population: 10476 | Latitude: 53.404 | Longitude: -2.991 | Total Area: 1.2km²</description>
+
+            <category>District</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">district_1</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: St George&#039;s Hall [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>St George&#039;s Hall - a place of interest in Liverpool | A magnificent Grade I listed neoclassical building completed in 1854, housing concert rooms and a law court. One of the finest examples of neoclassical architecture in the world, now used as an events and cultural venue. | Established: 1854-09-18 | Accessibility Rating: 8/10 | Entry Fee: 0 GBP | Visitor Capacity: 1500 | Image File: https://localhost/index.html/assets/img/poi/st_georges_hall.jpg | Image Caption: The neoclassical facade of St George&#039;s Hall, Liverpool | Latitude: 53.4073 | Longitude: -2.9814 | Total Area: 0.02km²</description>
+
+            <category>Place of Interest</category>
+            <category>City Centre North</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_1</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Walker Art Gallery [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Walker Art Gallery - a place of interest in Liverpool | One of the finest art galleries in the UK, opened in 1877. Houses an outstanding collection of paintings, sculpture and decorative art from the 13th century to the present day, including works by Rubens, Rembrandt and Hockney. | Established: 1877-09-06 | Accessibility Rating: 9/10 | Entry Fee: 0 GBP | Visitor Capacity: 2000 | Image File: https://localhost/index.html/assets/img/poi/walker_art_gallery.jpg | Image Caption: The Walker Art Gallery on William Brown Street | Latitude: 53.4076 | Longitude: -2.9807 | Total Area: 0.03km²</description>
+
+            <category>Place of Interest</category>
+            <category>City Centre North</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_2</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: Liverpool Lime Street [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool Lime Street - a transport station in Liverpool | Liverpool&#039;s principal railway station serving longer distance and local services. | Accessibility Rating: 9/10 | Toilets Available?: Yes | Station Type: National Rail | Latitude: 53.4075 | Longitude: -2.9777</description>
+
+            <category>Transport Station</category>
+            <category>City Centre North</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">station_1</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Liverpool Central Library [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool Central Library - a public service in Liverpool | Liverpool Central Library is the main public library for the city, located on William Brown Street. It offers extensive research facilities, reading rooms, and community spaces. | Service Type: Library | Latitude: 53.4071 | Longitude: -2.9811</description>
+
+            <category>Public Service</category>
+            <category>City Centre North</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_1</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Liverpool Womens Hospital [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool Womens Hospital - a public service in Liverpool | Liverpool Womens Hospital is a specialist NHS hospital providing maternity, gynaecology, and neonatal services, located on Crown Street in the Canning district. | Service Type: Hospital | Latitude: 53.3946 | Longitude: -2.9618</description>
+
+            <category>Public Service</category>
+            <category>City Centre North</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_4</guid>
+        </item>
+
+        <item>
+            <title>District: City Centre South [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>City Centre South - a district in Liverpool | The southern half of the commercial centre. Home to Liverpool ONE shopping complex, Bold Street, and the Ropewalks area. A hub for retail, nightlife, and student life given its proximity to university buildings. | Population: 10540 | Latitude: 53.3931 | Longitude: -2.9818 | Total Area: 1km²</description>
+
+            <category>District</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">district_2</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Liverpool ONE [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool ONE - a place of interest in Liverpool | A 42-acre open-air shopping and leisure complex in the heart of the city centre, opened in 2008. One of the largest city centre retail developments in Europe, home to over 170 stores, restaurants, and Chavasse Park. | Established: 2008-05-29 | Accessibility Rating: 9/10 | Entry Fee: 0 GBP | Visitor Capacity: 30000 | Image File: https://localhost/index.html/assets/img/poi/assets/simages/poi/liverpool_one.jpg | Image Caption: Liverpool ONE open-air shopping complex | Latitude: 53.4014 | Longitude: -2.9876 | Total Area: 0.17km²</description>
+
+            <category>Place of Interest</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_3</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Cavern Club [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Cavern Club - a place of interest in Liverpool | The world-famous music venue on Mathew Street where The Beatles performed over 290 times in the early 1960s. The current club is a faithful reconstruction of the original and continues to host live music daily. | Established: 1957-01-16 | Accessibility Rating: 6/10 | Entry Fee: 4 GBP | Visitor Capacity: 500 | Image File: https://localhost/index.html/assets/img/poi/cavern_club.jpg | Image Caption: The iconic entrance to the Cavern Club on Mathew Street | Latitude: 53.404 | Longitude: -2.9913 | Total Area: 0.01km²</description>
+
+            <category>Place of Interest</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_4</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: Liverpool Central [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool Central - a transport station in Liverpool | Liverpool Central serves as the main underground interchange for the Northern and Wirral Lines, with step-free access to all platforms. | Accessibility Rating: 8/10 | Toilets Available?: Yes | Station Type: Suburban Rail | Latitude: 53.4038 | Longitude: -2.9794</description>
+
+            <category>Transport Station</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">station_2</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Liverpool City Centre Police Station [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool City Centre Police Station - a public service in Liverpool | Liverpool City Centre Police Station serves the southern city centre area, providing community policing and emergency response services for residents and visitors. | Service Type: Police Station | Latitude: 53.4039 | Longitude: -2.9881</description>
+
+            <category>Public Service</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_2</guid>
+        </item>
+
+        <item>
+            <title>Public Service: The Museum of Liverpool [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>The Museum of Liverpool - a public service in Liverpool | The Museum of Liverpool on the waterfront is one of the largest purpose-built national museums in the UK, exploring the citys history, culture, and people. | Service Type: Museum | Latitude: 53.4035 | Longitude: -2.9944</description>
+
+            <category>Public Service</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_3</guid>
+        </item>
+
+        <item>
+            <title>Public Service: The Shanghai Museum [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>The Shanghai Museum - a public service in Liverpool | The Shanghai Museum on People&#039;s Square is one of China&#039;s foremost museums, housing a collection of over 140,000 ancient Chinese art works including bronzes, ceramics, and calligraphy. | Service Type: Museum | Latitude: 31.2286 | Longitude: 121.4739</description>
+
+            <category>Public Service</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_6</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Xuhui District Library [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Xuhui District Library - a public service in Liverpool | Xuhui District Library is a modern public library serving the Xuhui community, offering extensive Chinese and foreign language collections alongside digital research resources. | Service Type: Library | Latitude: 31.1887 | Longitude: 121.4362</description>
+
+            <category>Public Service</category>
+            <category>City Centre South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_8</guid>
+        </item>
+
+        <item>
+            <title>District: Waterfront South [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Waterfront South - a district in Liverpool | Covers the iconic riverside stretch including Pier Head, the Three Graces, Albert Dock, and the museums quarter. Seen as a primary tourist and cultural destination.  | Population: 3590 | Latitude: 53.4018 | Longitude: -2.9863 | Total Area: 1.5km²</description>
+
+            <category>District</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">district_3</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Royal Albert Dock [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Royal Albert Dock - a place of interest in Liverpool | A UNESCO World Heritage Site and the largest collection of Grade I listed buildings in the UK. Built in 1846, the restored Victorian dock complex is now home to museums, galleries, restaurants, bars and shops along the iconic waterfront. | Established: 1846-07-30 | Accessibility Rating: 8/10 | Entry Fee: 0 GBP | Visitor Capacity: 20000 | Image File: https://localhost/index.html/assets/img/poi/royal_albert_dock.jpg | Image Caption: The Victorian warehouses of Royal Albert Dock | Latitude: 53.3997 | Longitude: -2.9923 | Total Area: 0.11km²</description>
+
+            <category>Place of Interest</category>
+            <category>Waterfront South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_5</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Pier Head [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Pier Head - a place of interest in Liverpool | The iconic riverside plaza at the heart of Liverpool&#039;s UNESCO World Heritage waterfront. Home to the Three Graces — the Royal Liver Building, Cunard Building and Port of Liverpool Building — as well as the Mersey Ferry terminal and statues of Beatles legends. | Established: 1847-01-01 | Accessibility Rating: 8/10 | Entry Fee: 0 GBP | Visitor Capacity: 25000 | Image File: https://localhost/index.html/assets/img/poi/pier_head.jpg | Image Caption: The Three Graces at Pier Head on the Liverpool waterfront | Latitude: 53.4045 | Longitude: -2.997 | Total Area: 0.05km²</description>
+
+            <category>Place of Interest</category>
+            <category>Waterfront South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_6</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: James Street [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>James Street - a transport station in Liverpool | An underground station on the Wirral Line. Access to platforms is via lifts from the booking hall, and it serves as a key gateway to the Waterfront and business district. | Accessibility Rating: 7/10 | Toilets Available?: Yes | Station Type: Suburban Rail | Latitude: 53.4048 | Longitude: -2.992</description>
+
+            <category>Transport Station</category>
+            <category>Waterfront South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">station_3</guid>
+        </item>
+
+        <item>
+            <title>Public Service: The University of Liverpool [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>The University of Liverpool - a public service in Liverpool | The University of Liverpool is a Russell Group research university founded in 1881, offering a wide range of undergraduate and postgraduate programmes across its Brownlow Hill campus. | Service Type: University | Latitude: 53.4064 | Longitude: -2.9662</description>
+
+            <category>Public Service</category>
+            <category>Waterfront South</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_5</guid>
+        </item>
+
+        <item>
+            <title>District: Canning [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Canning - a district in Liverpool | Located on the southern edge of the city centre, canning encompasses the Georgian Quarter, Hope Street corridor, and Chinatown. It is also rich in Victorian and Georgian architecture. | Population: 10449 | Latitude: 53.4002 | Longitude: -2.9224 | Total Area: 0.9km²</description>
+
+            <category>District</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">district_4</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Liverpool Cathedral [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool Cathedral - a place of interest in Liverpool | The largest cathedral in the UK and the fifth largest in the world, completed in 1978 after 74 years of construction. A stunning example of Gothic Revival architecture with the highest and heaviest bells ever hung, and panoramic city views from the tower. | Established: 1904-07-19 | Accessibility Rating: 7/10 | Entry Fee: 0 GBP | Visitor Capacity: 3000 | Image File: https://localhost/index.html/assets/img/poi/liverpool_cathedral.jpg | Image Caption: Liverpool Anglican Cathedral from the south | Latitude: 53.3994 | Longitude: -2.9724 | Total Area: 0.09km²</description>
+
+            <category>Place of Interest</category>
+            <category>Canning</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_7</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Philharmonic Hall [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Philharmonic Hall - a place of interest in Liverpool | Home to the Royal Liverpool Philharmonic Orchestra, one of the oldest symphony orchestras in the UK. The current Art Deco building, opened in 1939, is renowned as one of the finest concert halls in Europe with outstanding acoustics. | Established: 1849-08-27 | Accessibility Rating: 8/10 | Entry Fee: 15 GBP | Visitor Capacity: 1750 | Image File: https://localhost/index.html/assets/img/poi/philharmonic_hall.jpg | Image Caption: The Art Deco exterior of Philharmonic Hall on Hope Street | Latitude: 53.4018 | Longitude: -2.9692 | Total Area: 0.02km²</description>
+
+            <category>Place of Interest</category>
+            <category>Canning</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_8</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Jing&#039;an District Central Hospital [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Jing&#039;an District Central Hospital - a public service in Liverpool | Jing&#039;an District Central Hospital is a major public hospital serving the residents of Jing&#039;an, offering a broad range of medical and surgical services. | Service Type: Hospital | Latitude: 31.2245 | Longitude: 121.4472</description>
+
+            <category>Public Service</category>
+            <category>Canning</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_7</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Fudan University [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Fudan University - a public service in Liverpool | Fudan University is one of China&#039;s most prestigious universities, founded in 1905, offering world-class education and research across a wide range of disciplines. | Service Type: University | Latitude: 31.298 | Longitude: 121.5036</description>
+
+            <category>Public Service</category>
+            <category>Canning</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_10</guid>
+        </item>
+
+        <item>
+            <title>District: Brownlow Hill [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Brownlow Hill - a district in Liverpool | Centred around the university district, covering the campuses of the University of Liverpool and Liverpool John Moores University. It is a dense, student-heavy area with hospitals and research institutions. | Population: 10213 | Latitude: 53.4057 | Longitude: -2.971 | Total Area: 1.1km²</description>
+
+            <category>District</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">district_5</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Victoria Gallery &amp; Museum [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Victoria Gallery &amp; Museum - a place of interest in Liverpool | The University of Liverpool&#039;s free museum and art gallery, housed in a stunning Victorian red brick building. Features collections of fine art, science and technology, and natural history, alongside changing exhibitions. | Established: 1892-01-01 | Accessibility Rating: 7/10 | Entry Fee: 0 GBP | Visitor Capacity: 800 | Image File: https://localhost/index.html/assets/img/poi/victoria_gallery.jpg | Image Caption: The Victorian facade of the Victoria Gallery &amp; Museum | Latitude: 53.4058 | Longitude: -2.9659 | Total Area: 0.02km²</description>
+
+            <category>Place of Interest</category>
+            <category>Brownlow Hill</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_9</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Liverpool Everyman Theatre [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Liverpool Everyman Theatre - a place of interest in Liverpool | A renowned repertory theatre on Hope Street, originally founded in 1964. The current building, which reopened in 2013 after a major rebuild, won the RIBA Stirling Prize for architecture. Known for nurturing major theatrical talent including Alan Bleasdale and Willy Russell. | Established: 1964-01-01 | Accessibility Rating: 9/10 | Entry Fee: 12 GBP | Visitor Capacity: 400 | Image File: https://localhost/index.html/assets/img/poi/everyman_theatre.jpg | Image Caption: The award-winning exterior of the Liverpool Everyman Theatre | Latitude: 53.4024 | Longitude: -2.9671 | Total Area: 0.01km²</description>
+
+            <category>Place of Interest</category>
+            <category>Brownlow Hill</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">poi_10</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Hongkou District Post Office [Liverpool]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Hongkou District Post Office - a public service in Liverpool | Hongkou District Post Office provides postal and courier services to residents and businesses across the Hongkou area, located centrally within the district. | Service Type: Post Office | Latitude: 31.264 | Longitude: 121.503</description>
+
+            <category>Public Service</category>
+            <category>Brownlow Hill</category>
+            <category>Liverpool</category>
+
+            <guid isPermaLink="false">service_9</guid>
+        </item>
+
+        <item>
+            <title>City: Shanghai</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Shanghai - a city in China | Timezone: Asia/Shanghai | Population: 29558908 | Latitude: 31.224361 | Longitude: 121.46917 | Mayor: Gong Zheng | GDP: 610085763000 CNY (local currency) | Total Area: 6340km²</description>
+
+            <category>City</category>
+            <category>China</category>
+
+            <guid isPermaLink="false">city_2</guid>
+        </item>
+
+        <item>
+            <title>District: Huangpu [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Huangpu - a district in Shanghai | Located on the west bank of the Huangpu River, it is the core of downtown Shanghai. Home to the Bund, Nanjing Road, People&#039;s Square, the Shanghai Museum, and Xintiandi. | Population: 656200 | Latitude: 31.23 | Longitude: 121.48 | Total Area: 20.52km²</description>
+
+            <category>District</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">district_6</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: The Bund [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>The Bund - a place of interest in Shanghai | Shanghai&#039;s most iconic waterfront promenade stretching 1.5km along the Huangpu River. Features 52 buildings in a variety of architectural styles from the early 20th century. Offers spectacular views of the Pudong skyline across the river. | Established: 1846-01-01 | Accessibility Rating: 7/10 | Entry Fee: 0 CNY | Visitor Capacity: 50000 | Image File: https://localhost/index.html/assets/img/poi/the_bund.jpg | Image Caption: The historic waterfront buildings of the Bund at night | Latitude: 31.2404 | Longitude: 121.4905 | Total Area: 0.15km²</description>
+
+            <category>Place of Interest</category>
+            <category>Huangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_11</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Xintiandi [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Xintiandi - a place of interest in Shanghai | A upscale pedestrianised entertainment and shopping district built around restored Shikumen stone-gate houses from the 1920s. A flagship urban regeneration project blending preserved heritage architecture with modern restaurants, boutiques, bars and galleries. | Established: 2001-01-01 | Accessibility Rating: 9/10 | Entry Fee: 0 CNY | Visitor Capacity: 15000 | Image File: https://localhost/index.html/assets/img/poi/xintiandi.jpg | Image Caption: Restored Shikumen houses in Xintiandi, Shanghai | Latitude: 31.2197 | Longitude: 121.4737 | Total Area: 0.09km²</description>
+
+            <category>Place of Interest</category>
+            <category>Huangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_12</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: People&#039;s Square [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>People&#039;s Square - a transport station in Shanghai | A major interchange station below People&#039;s Square, serving Lines 1, 2, and 8. One of the busiest metro stations in mainland China. | Accessibility Rating: 8/10 | Toilets Available?: Yes | Station Type: Metro | Latitude: 31.2304 | Longitude: 121.4737</description>
+
+            <category>Transport Station</category>
+            <category>Huangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">station_4</guid>
+        </item>
+
+        <item>
+            <title>Public Service: Putuo District People&#039;s Hospital [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Putuo District People&#039;s Hospital - a public service in Shanghai | Putuo District People&#039;s Hospital is a comprehensive public hospital providing emergency, medical, and surgical services to the residents of Putuo district. | Service Type: Hospital | Latitude: 31.2498 | Longitude: 121.4012</description>
+
+            <category>Public Service</category>
+            <category>Huangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">service_11</guid>
+        </item>
+
+        <item>
+            <title>District: Jing&#039;an [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Jing&#039;an - a district in Shanghai | Located in downtown Shanghai. Jing&#039;an is  Considered the thriving centre of the city, densely populated with food, drink, restaurants, cafes, entertainment, and shopping, usually all within walking distance of each other. | Population: 975707 | Latitude: 31.2235 | Longitude: 121.4559 | Total Area: 37km²</description>
+
+            <category>District</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">district_7</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Jing&#039;an Temple [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Jing&#039;an Temple - a place of interest in Shanghai | One of Shanghai&#039;s most famous and active Buddhist temples, with origins dating back to 247 AD. The current ornate structure features gilded rooftops and houses a 3.8-metre jade Buddha, set dramatically against the backdrop of modern skyscrapers on Nanjing Road West. | Established: 1000-01-01 | Accessibility Rating: 6/10 | Entry Fee: 50 CNY | Visitor Capacity: 3000 | Image File: https://localhost/index.html/assets/img/poi/jingan_temple.jpg | Image Caption: The gilded rooftops of Jing&#039;an Temple against the Shanghai skyline | Latitude: 31.2244 | Longitude: 121.448 | Total Area: 0.02km²</description>
+
+            <category>Place of Interest</category>
+            <category>Jing&#039;an</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_13</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Nanjing Road West [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Nanjing Road West - a place of interest in Shanghai | The upscale western section of Shanghai&#039;s most famous shopping street, lined with luxury boutiques, international brands, and department stores. Stretching over 5km, it is one of the world&#039;s busiest retail streets and a key commercial artery of Jing&#039;an district. | Established: 1851-01-01 | Accessibility Rating: 8/10 | Entry Fee: 0 CNY | Visitor Capacity: 100000 | Image File: https://localhost/index.html/assets/img/poi/nanjing_road_west.jpg | Image Caption: Nanjing Road West lined with luxury boutiques | Latitude: 31.2255 | Longitude: 121.4524 | Total Area: 0.08km²</description>
+
+            <category>Place of Interest</category>
+            <category>Jing&#039;an</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_14</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: West Nanjing Road [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>West Nanjing Road - a transport station in Shanghai | A major interchange on Lines 2 and 13, situated at the heart of Jing&#039;an&#039;s commercial and luxury retail corridor. | Accessibility Rating: 8/10 | Toilets Available?: Yes | Station Type: Metro | Latitude: 31.2271 | Longitude: 121.4565</description>
+
+            <category>Transport Station</category>
+            <category>Jing&#039;an</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">station_5</guid>
+        </item>
+
+        <item>
+            <title>District: Xuhui [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Xuhui - a district in Shanghai | Xuhui is a, prosperous, and culturally rich district in the heart of Shanghai, China, known for blending historical charm with modern, upscale development. | Population: 1113078 | Latitude: 31.1883 | Longitude: 121.4369 | Total Area: 54.93km²</description>
+
+            <category>District</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">district_8</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Former French Concession [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Former French Concession - a place of interest in Shanghai | A leafy, atmospheric neighbourhood covering much of Xuhui, characterised by tree-lined avenues, Art Deco villas, and converted lane houses. Originally administered by France from 1849, it is now home to boutique shops, cafes, restaurants and some of Shanghai&#039;s most sought-after residential streets. | Established: 1849-01-01 | Accessibility Rating: 7/10 | Entry Fee: 0 CNY | Visitor Capacity: 20000 | Image File: https://localhost/index.html/assets/img/poi/french_concession.jpg | Image Caption: Tree-lined avenue in the Former French Concession | Latitude: 31.2165 | Longitude: 121.4554 | Total Area: 2.5km²</description>
+
+            <category>Place of Interest</category>
+            <category>Xuhui</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_15</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Xujiahui Park [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Xujiahui Park - a place of interest in Shanghai | A large public park in the heart of the Xujiahui commercial district, opened in 1999 on the site of a former factory. Features lawns, lakes, and tree-lined paths providing a green respite from the surrounding shopping malls and transport interchange. | Established: 1999-01-01 | Accessibility Rating: 9/10 | Entry Fee: 0 CNY | Visitor Capacity: 15000 | Image File: https://localhost/index.html/assets/img/poi/xujiahui_park.jpg | Image Caption: Lakes and greenery in Xujiahui Park | Latitude: 31.1943 | Longitude: 121.4371 | Total Area: 0.18km²</description>
+
+            <category>Place of Interest</category>
+            <category>Xuhui</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_16</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: Xujiahui [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Xujiahui - a transport station in Shanghai | One of Shanghai&#039;s largest and most complex interchange stations, serving Lines 1, 9, and 11. | Accessibility Rating: 9/10 | Toilets Available?: Yes | Station Type: Metro | Latitude: 31.1941 | Longitude: 121.4327</description>
+
+            <category>Transport Station</category>
+            <category>Xuhui</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">station_6</guid>
+        </item>
+
+        <item>
+            <title>District: Hongkou [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Hongkou - a district in Shanghai | Located in the northeast of downtown it is a core functional zone of Shanghai&#039;s central business district. A traditional district known for its historic Jewish heritage, local food culture, and Art Deco architecture. | Population: 757498 | Latitude: 31.2645 | Longitude: 121.5051 | Total Area: 23.48km²</description>
+
+            <category>District</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">district_9</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Shanghai Jewish Refugees Museum [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Shanghai Jewish Refugees Museum - a place of interest in Shanghai | Located in the former Ohel Moshe Synagogue, the museum documents the lives of approximately 18,000 Jewish refugees who fled Nazi persecution to Shanghai between 1933 and 1941. Features personal artefacts, photographs and film testimonies. | Established: 2007-03-23 | Accessibility Rating: 8/10 | Entry Fee: 50 CNY | Visitor Capacity: 500 | Image File: https://localhost/index.html/assets/img/poi/jewish_refugees_museum.jpg | Image Caption: The former Ohel Moshe Synagogue housing the Jewish Refugees Museum | Latitude: 31.265 | Longitude: 121.502 | Total Area: 0.01km²</description>
+
+            <category>Place of Interest</category>
+            <category>Hongkou</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_17</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Lu Xun Park [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Lu Xun Park - a place of interest in Shanghai | A historic public park in northern Hongkou named after celebrated Chinese writer Lu Xun. Features the Lu Xun Memorial Hall, his tomb, and pleasant gardens with lakes and traditional Chinese pavilions. A popular spot for morning exercises and cultural events. | Established: 1896-01-01 | Accessibility Rating: 8/10 | Entry Fee: 0 CNY | Visitor Capacity: 10000 | Image File: https://localhost/index.html/assets/img/poi/lu_xun_park.jpg | Image Caption: Traditional pavilion in Lu Xun Park, Hongkou | Latitude: 31.2699 | Longitude: 121.4981 | Total Area: 0.22km²</description>
+
+            <category>Place of Interest</category>
+            <category>Hongkou</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_18</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: Hailun Road [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Hailun Road - a transport station in Shanghai | An interchange station on Lines 4 and 10, serving as a key access point for the southern part of Hongkou district.  | Accessibility Rating: 7/10 | Toilets Available?: Yes | Station Type: Metro | Latitude: 31.2593 | Longitude: 121.4876</description>
+
+            <category>Transport Station</category>
+            <category>Hongkou</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">station_7</guid>
+        </item>
+
+        <item>
+            <title>District: Yangpu [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Yangpu - a district in Shanghai | Located in the northeast of downtown Shanghai, Yangpu is home to two of China&#039;s biggest universities: Fudan University and Tongji University, as well as the lively Wujiaochang commercial and student area | Population: 1242548 | Latitude: 31.2596 | Longitude: 121.5261 | Total Area: 60.61km²</description>
+
+            <category>District</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">district_10</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Wujiaochang Shopping Area [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Wujiaochang Shopping Area - a place of interest in Shanghai | The main commercial hub of Yangpu district, centred on a large pedestrianised zone surrounded by major shopping malls including Wanda Plaza and Bailian又一城. A busy retail, dining and entertainment destination popular with students from nearby Fudan and Tongji universities. | Established: 2000-01-01 | Accessibility Rating: 8/10 | Entry Fee: 0 CNY | Visitor Capacity: 50000 | Image File: https://localhost/index.html/assets/img/poi/wujiaochang.jpg | Image Caption: The busy pedestrianised Wujiaochang shopping area | Latitude: 31.298 | Longitude: 121.5097 | Total Area: 0.3km²</description>
+
+            <category>Place of Interest</category>
+            <category>Yangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_19</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Gongqing Forest Park [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Gongqing Forest Park - a place of interest in Shanghai | One of Shanghai&#039;s largest urban parks, covering 1.58 km² in the northeast of Yangpu district. Features dense woodland, lakes, cycling trails, a campsite and recreational facilities. A popular escape from the city for families and outdoor enthusiasts. | Established: 1986-01-01 | Accessibility Rating: 7/10 | Entry Fee: 15 CNY | Visitor Capacity: 20000 | Image File: https://localhost/index.html/assets/img/poi/gongqing_forest_park.jpg | Image Caption: Woodland trails in Gongqing Forest Park | Latitude: 31.3143 | Longitude: 121.5274 | Total Area: 1.58km²</description>
+
+            <category>Place of Interest</category>
+            <category>Yangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_20</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: Wujiaochang [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Wujiaochang - a transport station in Shanghai | Served by Line 10, Wujiaochang is the commercial and student hub of Yangpu, situated at a major road intersection surrounded by shopping centres, restaurants, and universities including Fudan. | Accessibility Rating: 7/10 | Toilets Available?: Yes | Station Type: Metro | Latitude: 31.298 | Longitude: 121.5097</description>
+
+            <category>Transport Station</category>
+            <category>Yangpu</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">station_8</guid>
+        </item>
+
+        <item>
+            <title>District: Putuo [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Putuo - a district in Shanghai | Putuo is characterized by urban development, the Suzhou Creek, and major transport hubs like Shanghai West Railway Station. It is known for attractions such as the Jade Buddha Temple and the Yuexing Global Harbor. | Population: 1288881 | Latitude: 31.2494 | Longitude: 121.397 | Total Area: 55.53km²</description>
+
+            <category>District</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">district_11</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: Jade Buddha Temple [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Jade Buddha Temple - a place of interest in Shanghai | One of Shanghai&#039;s most active and revered Buddhist temples, famous for its two jade Buddha statues brought from Burma in 1882. The temple was built in 1928 and continues to be a working monastery, attracting both worshippers and tourists with its traditional Chinese Buddhist architecture. | Established: 1928-01-01 | Accessibility Rating: 6/10 | Entry Fee: 40 CNY | Visitor Capacity: 5000 | Image File: https://localhost/index.html/assets/img/poi/jade_buddha_temple.jpg | Image Caption: The ornate entrance to the Jade Buddha Temple | Latitude: 31.2518 | Longitude: 121.4471 | Total Area: 0.02km²</description>
+
+            <category>Place of Interest</category>
+            <category>Putuo</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_21</guid>
+        </item>
+
+        <item>
+            <title>Place of Interest: 1000 Trees [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>1000 Trees - a place of interest in Shanghai | A striking contemporary mixed-use development designed by British architect Thomas Heatherwick, opened in 2021. Built on the banks of Suzhou Creek, the terraced structure is covered with over 1000 trees and plants. Houses shops, restaurants, a hotel and cultural spaces. | Established: 2021-01-01 | Accessibility Rating: 9/10 | Entry Fee: 0 CNY | Visitor Capacity: 8000 | Image File: https://localhost/index.html/assets/img/poi/1000_trees.jpg | Image Caption: 1000 Trees development rising above Suzhou Creek | Latitude: 31.238 | Longitude: 121.418 | Total Area: 0.1km²</description>
+
+            <category>Place of Interest</category>
+            <category>Putuo</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">poi_22</guid>
+        </item>
+
+        <item>
+            <title>Transport Station: Zhongshan Park [Shanghai]</title>
+            <link>https://localhost/index.html</link>
+
+            <description>Zhongshan Park - a transport station in Shanghai | A significant multi-line interchange serving Lines 2, 3, and 4, located adjacent to Zhongshan Park and a large retail complex. | Accessibility Rating: 8/10 | Toilets Available?: Yes | Station Type: Metro | Latitude: 31.2244 | Longitude: 121.4124</description>
+
+            <category>Transport Station</category>
+            <category>Putuo</category>
+            <category>Shanghai</category>
+
+            <guid isPermaLink="false">station_9</guid>
+        </item>
+
+    </channel>
+</rss>

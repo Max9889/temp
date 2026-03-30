@@ -1,0 +1,38 @@
+/*
+styles for icons on the site
+*/
+
+.spinner {
+    width: 15rem;
+    height: 15rem;
+
+    animation: spin 1s ease-in-out infinite;
+    user-select: none;
+}
+
+.spinner-small {
+    width: 5rem;
+    height: 5rem;
+
+    animation: spin 1s ease-in-out infinite;
+    user-select: none;
+}
+
+
+@keyframes spin {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+.weather-icon {
+    width: 2rem;
+    height: 2rem;
+    user-select: none;
+}
+
+.weather-icon-small {
+    width: 1.25rem;
+    height: 1.25rem;
+    user-select: none;
+}
+

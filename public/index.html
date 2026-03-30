@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- site metadata -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Twin Cities Infohub</title>
+
+        <!-- stylesheets -->
+        <link rel="stylesheet" href="css/style-presets.css">
+        <link rel="stylesheet" href="css/base.css">
+        <link rel="stylesheet" href="css/info-tab.css">
+        <link rel="stylesheet" href="css/photo-widget.css">
+        <link rel="stylesheet" href="css/icons.css">
+
+        <!-- load leafletJS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+        <link rel="stylesheet" href="css/leaflet-custom.css">
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+        <!-- start js -->
+        <script type="module" src="js/main.js"></script>
+    </head>
+
+    <body>
+        <div class="title-bar">
+            <h1>Twin Cities Infohub</h1>
+        </div>
+        <div class="page-body">
+            <div class="city-container">
+                <div class="city-title">
+                    <h2>Liverpool</h2>
+                </div>
+                <div class="city-body">
+                    <div id="map-liverpool" class="city-top-container"></div>
+                    <div class="city-bottom-container">
+                        <div class="city-data-container">
+                            <button id="liverpool-button-left"><</button>
+                            <div class="info-tab-defaults info-tab-loading" id="info-tab-liverpool"></div>
+                            <button id="liverpool-button-right">></button>
+                        </div>
+                        <div id="liverpool-photo-widget" class="photo-widget">
+                            <div id="liverpool-image-container" class="image-container"></div>
+                            <div class="button-container">
+                                <button id="liverpool-widget-button-left"><</button>
+                                <button id="liverpool-widget-button-right">></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="city-container">
+                <div class="city-title">
+                    <h2>Shanghai</h2>
+                </div>
+                <div class="city-body">
+                    <div id="map-shanghai" class="city-top-container"></div>
+                    <div class="city-bottom-container">
+                        <div class="city-data-container">
+                            <button id="shanghai-button-left"><</button>
+                            <div class="info-tab-defaults info-tab-loading" id="info-tab-shanghai"></div>
+                            <button id="shanghai-button-right">></button>
+                        </div>
+                        <div id="shanghai-photo-widget" class="photo-widget">
+                            <div id="shanghai-image-container" class="image-container"></div>
+                            <div class="button-container">
+                                <button id="shanghai-widget-button-left"><</button>
+                                <button id="shanghai-widget-button-right">></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

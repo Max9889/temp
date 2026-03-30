@@ -1,0 +1,49 @@
+/* style presets for colorscheme, fonts, html elements  */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&display=swap');
+:root {
+    /* -- palette -- */
+    --bg:             #0d1b2a;
+    --bg-glow:        radial-gradient(ellipse 90% 45% at 50% -5%, #1b3a5840, transparent);
+    --glass:          rgba(255, 255, 255, 0.07);
+    --glass-strong:   rgba(255, 255, 255, 0.11);
+    --glass-border:   rgba(255, 255, 255, 0.13);
+    --accent:         #7dd3f5;
+    --accent-dim:     rgba(125, 211, 245, 0.15);
+    --accent-dim-translucent: rgba(125, 211, 245, 0.25);
+    --text:           #e4f0f9;
+    --text-muted:     #6896b4;
+
+    /* legacy varnames */
+    --container-color: var(--glass);
+    --accent-color-1:  var(--glass);
+    --accent-color-2:  var(--glass-border);
+}
+
+/* button styling */
+
+button {
+    background: var(--glass-strong);
+    color: var(--accent);
+
+    border: 1px solid var(--glass-border);
+    border-radius: 0.5rem;
+
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+
+    transition: background 0.15s, border-color 0.15s;
+
+    user-select: none;
+    text-align: center;
+    font-weight: 500;
+}
+
+button:hover {
+    border-color: var(--accent);
+    background: var(--accent-dim);
+}
+
+button:active {
+    background: var(--accent-dim-translucent);
+}
